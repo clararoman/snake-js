@@ -1,0 +1,13 @@
+body{
+background: #111;
+    width: 640px;
+    margin: 50px auto;
+}
+
+
+canvas {
+   	outline:solid 5px lime;
+  position:absolute;
+  margin: 0 auto;
+    background-image:url("https://github.com/clararoman/snake/blob/master/bg.png?raw=true");
+}
